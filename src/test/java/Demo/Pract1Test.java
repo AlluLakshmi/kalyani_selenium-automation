@@ -7,7 +7,7 @@ public class Pract1Test {
 	public void carTest() 
 	{
 		System.out.println("Audi");
-		System.out.println("Benz");
+		System.out.println("BenzK");
 	}
 	
 
