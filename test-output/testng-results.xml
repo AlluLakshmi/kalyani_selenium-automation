@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-17T08:37:26 IST" name="Suite" finished-at="2025-12-17T08:37:27 IST" duration-ms="126">
+  <suite started-at="2025-12-22T07:04:07 IST" name="Suite" finished-at="2025-12-22T07:04:08 IST" duration-ms="215">
     <groups>
       <group name="regression">
         <method signature="PracTest.carTest()[pri:0, instance:Demo.PracTest@399f45b1]" name="carTest" class="Demo.PracTest"/>
@@ -11,15 +11,15 @@
         <method signature="Pract1Test.carTest()[pri:0, instance:Demo.Pract1Test@dd8ba08]" name="carTest" class="Demo.Pract1Test"/>
       </group> <!-- smoke -->
     </groups>
-    <test started-at="2025-12-17T08:37:26 IST" name="Test" finished-at="2025-12-17T08:37:27 IST" duration-ms="126">
+    <test started-at="2025-12-22T07:04:07 IST" name="Test" finished-at="2025-12-22T07:04:08 IST" duration-ms="215">
       <class name="Demo.Pract1Test">
-        <test-method signature="carTest()[pri:0, instance:Demo.Pract1Test@dd8ba08]" started-at="2025-12-17T08:37:27 IST" name="carTest" finished-at="2025-12-17T08:37:27 IST" duration-ms="24" status="PASS">
+        <test-method signature="carTest()[pri:0, instance:Demo.Pract1Test@dd8ba08]" started-at="2025-12-22T07:04:08 IST" name="carTest" finished-at="2025-12-22T07:04:08 IST" duration-ms="29" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- carTest -->
       </class> <!-- Demo.Pract1Test -->
       <class name="Demo.PracTest">
-        <test-method signature="carTest()[pri:0, instance:Demo.PracTest@399f45b1]" started-at="2025-12-17T08:37:27 IST" name="carTest" finished-at="2025-12-17T08:37:27 IST" duration-ms="4" status="PASS">
+        <test-method signature="carTest()[pri:0, instance:Demo.PracTest@399f45b1]" started-at="2025-12-22T07:04:08 IST" name="carTest" finished-at="2025-12-22T07:04:08 IST" duration-ms="19" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- carTest -->
